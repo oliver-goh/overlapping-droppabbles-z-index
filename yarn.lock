@@ -1639,10 +1639,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@oliver-goh/dnd@^16.3.1":
-  version "16.3.1"
-  resolved "https://registry.yarnpkg.com/@oliver-goh/dnd/-/dnd-16.3.1.tgz#43077ddfd1de3ccdbb0769e917429da0cef3ceb4"
-  integrity sha512-ohvo67h4YDlqYnokngf7fZmVQzrheN4VWouDoIisc8OXIhBZjZtludTKLgkvzOuLNjQEKQ6T4a4BlO3n7TGrkg==
+"@oliver-goh/dnd@^16.3.3":
+  version "16.3.3"
+  resolved "https://registry.yarnpkg.com/@oliver-goh/dnd/-/dnd-16.3.3.tgz#085fcabd8dbb73fab94958557da5cce956b9d080"
+  integrity sha512-3Rg79I5LuysE89b7bXCS+ahHOmFrGSIx0rvE5TZ903GxzdHo40H/Y0Ba7Bc44JvyvWtMvRhjm/cEjAbIyQwu6w==
   dependencies:
     "@babel/runtime" "^7.22.6"
     css-box-model "^1.2.1"
